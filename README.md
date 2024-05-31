@@ -1,2 +1,1 @@
-# vermilion-custom-widgets
-god help me
+# Custom Widgets for the Vermilion Website
